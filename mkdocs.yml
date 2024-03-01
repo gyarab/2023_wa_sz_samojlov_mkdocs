@@ -1,0 +1,9 @@
+site_name: Vladimír Samojlov
+
+nav:
+  - <mark> Home </mark>: 'index.md'
+  - <mark> Maturita PG </mark>: 'maturita.md'
+  - <mark> Hodina WA </mark>: 'hodina.md'
+
+
+theme: simple-blog

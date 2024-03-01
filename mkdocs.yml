@@ -7,3 +7,6 @@ nav:
 
 
 theme: simple-blog
+
+extra_css:
+  - style.css
